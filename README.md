@@ -85,8 +85,6 @@ Contributions are welcome! If you'd like to contribute:
 3. Commit your changes and push to the new branch.
 4. Submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any questions or feedback, please feel free to reach out:
 - **GitHub:** [DivakarSahu1](https://github.com/DivakarSahu1)
